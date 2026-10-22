@@ -47,9 +47,7 @@
 <h3> Change the order of the current Tag</h3>
 <img src="https://github.com/namandangi/DBMS/blob/main/public/docs/edition.png" alt="normalOrder">
 <img src="https://github.com/namandangi/DBMS/blob/main/public/docs/editionOrder.png" alt="orderSwitch">
-<h3> Contact Page </h3>
-<img src="https://github.com/namandangi/DBMS/blob/master/public/docs/contact.png" alt="contact">
-</p>
+
 
 ## Technology Stack :
 
